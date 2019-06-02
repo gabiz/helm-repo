@@ -3,11 +3,11 @@ entries:
   my-app:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-06-01T18:15:23.862629-07:00
+    created: 2019-06-01T18:59:00.868215-07:00
     description: A Helm chart for Kubernetes
-    digest: 46f6b709cba9d173b305a792705feaf2dd435b3719e2d3b1161a270d76ad31af
+    digest: 629b248d577697e1c32cc8cc2617f22f0761e31927f7bf5ad31c2e64a70e8d52
     name: my-app
     urls:
     - https://gabiz.github.io/helm_repo/my-app-0.1.0.tgz
     version: 0.1.0
-generated: 2019-06-01T18:15:23.860074-07:00
+generated: 2019-06-01T18:59:00.867434-07:00
